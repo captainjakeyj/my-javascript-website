@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "CalculatorFont";
+    src: url("doto.ttf");
+}
+
+
+#calculatorbutton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    border-radius: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px grey;
+    font-family: CalculatorFont;
+    text-align: center;
+    margin-top: 200px;
+}
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+

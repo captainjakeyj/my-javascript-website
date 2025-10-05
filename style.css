@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: cursive;
+    text-align: center; 
+
+}
+#buttonnotlonely, #buttonlonely {
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+}
