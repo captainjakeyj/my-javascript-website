@@ -13,7 +13,7 @@ calculatorbutton.onclick = function() {
     
     let quotient = ""
     if (quotientNumber !== 0 && number2 == 0) {
-        quotient = "You cannot divide by 0! please rerun without dividing by 0 to see the division.";
+        quotient = "You cannot divide by 0! You can only divide 0 by another number.";
     } else {
         quotient = `${number1} divided by ${number2} is ${number1 / number2}!`;
     }
@@ -23,4 +23,5 @@ calculatorbutton.onclick = function() {
     alert(difference);
     alert(product);
     alert(quotient);
+
 }
