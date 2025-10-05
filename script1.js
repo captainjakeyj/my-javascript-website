@@ -43,7 +43,7 @@ variable1 += 1;
 
 // Ok, let's get back to the code!
 // Let's make some interactive buttons!
-buttonlonely = document.getElementById("buttonlonley")
+buttonlonely = document.getElementById("buttonlonely")
 
 
 buttonlonely.onclick = function() {
@@ -54,3 +54,4 @@ buttonlonely.onclick = function() {
 
 
 // I will add more Javascript code Soon! I am still learning!
+
